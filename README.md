@@ -69,6 +69,6 @@ Pop from an empty list
 Remove from an empty list
 # Clear the list
 dll.clear()
-
+```
 License
 This project is open-source and can be used for learning or personal projects.
